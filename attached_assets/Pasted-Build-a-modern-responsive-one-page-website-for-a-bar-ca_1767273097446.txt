@@ -1,0 +1,244 @@
+Build a modern, responsive one-page website for a bar called “Limes Müllem” in Cologne, Germany.
+
+Core identity
+
+Location: Mülheimer Freiheit 150, 51063 Köln, Germany.
+
+Type: Cheap live music bar + neighborhood pub + café.
+
+Vibe: Punk / lefty rock bar, radical, alternative, non-fancy but very welcoming. Lots of stickers and posters on the walls, dim light, small stage, foosball table (Kicker), people packed in during shows.
+Wanderlog
++2
+HappyCow
++2
+
+Audience: Locals from Mülheim, students, artists, punks, lefties, anyone who likes loud guitars, cheap beer, and a laid-back crowd.
+
+Atmosphere keywords: DIY, punk, underground, cosy but a bit chaotic, anti-corporate, inclusive, queer-friendly, political but not preachy, “everyone knows everyone” pub.
+
+Concept & story
+
+Present Limes Müllem as a radical neighborhood living room: live music venue at night, café with vegetarian/vegan food and homemade cakes by day.
+HappyCow
++1
+
+Emphasize that it’s on the “other side of the Rhein” in Köln-Mülheim, away from the touristy Altstadt, with a very local scene.
+Wanderlog
+
+Highlight that concerts are loud and intense, but must stop at 22:00 because of neighbors — so shows start on time and the bar continues as a hangout afterwards.
+Wanderlog
++1
+
+Mention it’s run by people active in the local left scene; a lot of community events, benefit shows, and political concerts happen here (antifascist, anti-racist, feminist, queer-friendly).
+
+Target visitors
+
+People searching for: “live music bar Köln”, “punk bar Köln”, “alternative Kneipe Köln Mülheim”, “vegane Kneipe Köln”.
+
+Touring bands / DIY artists looking for small, loud venues.
+
+Locals wanting cheap beer, kicker, and concerts in walking distance.
+
+Brand voice & copy style
+
+Tone: Direct, a bit rough, humorous, zero corporate bullshit.
+
+Use a mix of English & German where natural. Short, punchy sentences. Examples:
+
+“Punk, Kölsch & Kicker seit immer.”
+
+“Radical bar. Friendly people.”
+
+“Laut bis 22:00. Danach Tresen-Geschichten.”
+
+Avoid fake luxury wording like “premium experience” or “bespoke cocktails”. Focus on authenticity, fair prices, and community.
+
+Colors & visual style
+
+Dark, high-contrast layout (black / very dark gray background).
+
+Accent colors inspired by punk flyers: dirty red, neon green, yellow. Use sparingly.
+
+Typography:
+
+Headlines: bold, condensed sans-serif or slightly rough / “flyer” feeling.
+
+Body: clean sans-serif, very legible.
+
+Visual elements:
+
+Use collage / flyer / gig-poster aesthetics.
+
+Use grain, rough edges, tape & stickers motifs.
+
+Show photos (or placeholders) of: packed shows, people at the bar, sticker-covered walls, kicker table, café cakes.
+
+Structure of the page
+
+Hero Section
+
+Big headline, e.g. “Limes Müllem – Punk & Live-Mucke in Köln-Mülheim”.
+
+Subheadline: “Radical bar, cheap beers, loud gigs, vegane Snacks. Mülheimer Freiheit 150, 51063 Köln.”
+
+Call-to-action buttons:
+
+“Komm vorbei” (scrolls to Opening Hours & Map)
+
+“Nächste Konzerte” (scrolls to Events section)
+
+Background: fullscreen photo of a live gig in a small bar, overlaid with gritty texture and color overlay.
+
+What is Limes Müllem? (About)
+
+Short paragraph explaining:
+
+Punk / lefty rock bar.
+
+Live music several times per month.
+
+Café hours with vegetarian & vegan food, homemade cakes & waffles, plus coffee.
+HappyCow
++1
+
+Fair drink prices, especially Kölsch and a variety of beers.
+Wanderlog
++1
+
+Include 3–4 bullet points like:
+
+“Live-Konzerte im kleinen, schwitzigen Wohnzimmer”
+
+“Veggie & vegane Küche – wechselnde Tagesgerichte”
+
+“Kölsch ab ca. 1,60 €”
+
+“Kicker, Konzerte, Kneipe – alles in einem”
+
+Events & Live Music
+
+Section title: “Konzerte & Events”.
+
+Design a simple event list / cards layout with:
+
+Date, band name, genre, door time, ticket price, short description.
+
+Add a text block that explains:
+
+Concerts must end at 22:00 (Nachbarschaftsregel), so doors open early.
+
+Many shows are DIY, benefit, or political themed.
+
+Provide space or CMS hook where events can be easily updated.
+
+Food & Drinks
+
+Split layout:
+
+Left: “Drinks”
+
+Right: “Essen / Kuchen”
+
+Drinks section:
+
+Mention: Kölsch, various beers, long drinks, non-alcoholic options.
+
+Emphasize “fair prices” and “no fancy cocktail show”.
+
+Food section:
+
+Describe vegetarian / vegan dishes, weekly changing lunch dish, homemade cakes, vegan options, waffles.
+HappyCow
++1
+
+Add 3–4 example items with fun names (you can invent names that fit punk / lefty culture).
+
+Opening Hours
+
+Clear table with:
+
+Bar opening hours (Tue–Sat nights).
+
+Café opening hours (Wed–Sun daytime) based on info that café & bar have slightly different times.
+HappyCow
++1
+
+Add small note: “Konzerte enden um 22:00 Uhr – danach geht’s an der Theke weiter.”
+
+Location & Map
+
+Show address:
+
+“Limes Müllem
+Mülheimer Freiheit 150
+51063 Köln – Mülheim”
+
+Embed interactive map (e.g. Google Maps) or placeholder.
+
+Add short “How to get here” with tram/ÖPNV hints and bike friendliness.
+
+Community & Values
+
+Short section explaining:
+
+Anti-racist, anti-sexist, queer-friendly, no tolerance for Nazis.
+
+Respect for neighbors (no yelling outside, concerts end at 22:00).
+
+Encourage people to support small DIY venues.
+
+Use bold, direct language – 1–2 short paragraphs, maybe a “Hausregeln” list.
+
+Gallery
+
+Grid gallery of images:
+
+Concert photos, crowd, posters, bar, cakes, kicker.
+
+Use hover effects (e.g. slight zoom) and keep them gritty/analog looking.
+
+Contact & Booking
+
+Simple section with:
+
+Contact email for:
+
+Band booking requests (DIY bands, punk, rock, HC, alternative).
+
+Event ideas & community projects.
+
+Social media icons/links (Instagram, Facebook).
+
+Optionally: small contact form (Name, Email, Message).
+
+Footer
+
+Include:
+
+Address again.
+
+Quick links: “Konzerte”, “Speisekarte”, “Hausregeln”, “Kontakt”.
+
+Impressum & Datenschutzerklärung links for Germany.
+
+Technical & design requirements
+
+Mobile-first responsive design. Looks great on phones (most users will find the bar on mobile).
+
+Fast loading, minimal scripts.
+
+Accessible: good color contrast, readable fonts, proper headings.
+
+SEO basics:
+
+Title tag including “Limes Müllem – Live Musik Bar & Kneipe in Köln-Mülheim”.
+
+Meta description mentioning “punk bar, live music, Kölsch, vegane Küche, Mülheimer Freiheit”.
+
+Use structured data for LocalBusiness / Bar.
+
+Overall feel
+
+It should look like a modern, well-designed website that still feels like a DIY punk bar, not a corporate club.
+
+Prioritize authenticity, community, and live music over slick perfection.
