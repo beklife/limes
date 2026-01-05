@@ -1,13 +1,13 @@
 import { useQuery } from "@tanstack/react-query";
-import { api } from "@shared/routes";
+import { mockMenuItems } from "@/data/mockMenu";
 
 export function useMenuItems() {
   return useQuery({
-    queryKey: [api.menuItems.list.path],
+    queryKey: ["menu-items"],
     queryFn: async () => {
-      const res = await fetch(api.menuItems.list.path, { credentials: "include" });
-      if (!res.ok) throw new Error("Failed to fetch menu items");
-      return api.menuItems.list.responses[200].parse(await res.json());
+      // Simulate network delay
+      await new Promise(resolve => setTimeout(resolve, 300));
+      return mockMenuItems;
     },
   });
 }
